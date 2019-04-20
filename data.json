@@ -633,6 +633,15 @@
         }
 
       ]
+    },
+    {
+      "listName": "technakal",
+      "source": "",
+      "projects": [{
+        "text": "Build a React clone that requires no compilation.",
+        "category": "front-end",
+        "completed": false
+      }]
     }
   ]
 }

@@ -612,11 +612,6 @@
           "completed": false
         },
         {
-          "text": "these can be static HTML.",
-          "category": "web",
-          "completed": false
-        },
-        {
           "text": "Make a server which will say hello to the visitor. Should be able to send a name to the server, via POST or GET, and get a JSON response.",
           "category": "web",
           "completed": false

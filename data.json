@@ -1,7 +1,8 @@
 {
   "currentList": "karan",
   "projectLists": [{
-      "listName": "Karan",
+      "listName": "karan",
+      "totalCompleted": 0,
       "source": "https://github.com/karan/Projects#numbers",
       "projects": [{
         "text": "Find PI to the Nth Digit - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.",
@@ -374,8 +375,9 @@
       }]
     },
     {
-      "listName": "Baum",
+      "listName": "baum",
       "source": "https://www.jamesbaum.co.uk/blether/projects-to-learn-programming-language/",
+      "totalCompleted": 0,
       "projects": [{
           "text": "Write a programme which finds the factorial of a number entered by the user.(check for all conditions).",
           "category": "beginner",
@@ -631,7 +633,8 @@
     },
     {
       "listName": "technakal",
-      "source": "",
+      "source": "https://github.com/technakal",
+      "totalCompleted": 0,
       "projects": [{
         "text": "Build a React clone that requires no compilation.",
         "category": "front-end",

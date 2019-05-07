@@ -632,18 +632,18 @@
       ]
     },
     {
-      "listname": "treehouse",
+      "listName": "treehouse",
       "source": "https://teamtreehouse.com/",
       "totalCompleted": 0,
       "projects": [{
         "text": "Create a virtual pet or a virtual farm as described here: https://en.wikipedia.org/wiki/Digital_pet. The pets should have a wellness quotient that increases with how well they are cared for. They should also complain when they need care. They should require care between certain times of the day so you’ll want to use System.DateTime as part of your program. Use what you learned in this course to make it easy to add character to your pets such as different behaviors that it has or needs that its owner should provide.",
         "category": "intermediate",
         "completed": false
-      },{
+      }, {
         "text": "Produce a framework for Mad Libs games. The frameworks should allow you to create a catalog of MadLib templates with their text and identify the blanks and parts of speech for each blank. A player can pick the template and then fill it out to see the final text.",
         "category": "intermediate",
         "completed": false
-      },{
+      }, {
         "text": "Recreate a computer console based version of the popular Battleship game. At a minimum, you’ll want to have classes for player, ship, and board. You might want to make other classes as well. Start by making a two player game where each player has only one ship that takes up a single grid square on the game board. Players should be able select where they want to place their ships. The game board is typically a 10x10 grid, but you might want to make the game board smaller to start out. You should be able to change the game board size by changing the value of a single constant.You may also want to provide a single player option where you play against the computer. Use System.Random to randomly place the computer’s ships and to guess the location of its opponent’s ships. Think about ways you can make the computer a more challenging opponent by making it smarter. Be sure to practice good input validation by checking that players aren’t accidentally placing ships outside of the boundaries of the game board or on top of other ships. Also check that players don’t accidentally guess locations that they’ve already guessed.",
         "category": "intermediate",
         "completed": false
